@@ -30,6 +30,7 @@ const AboutUs = () => {
                     <h1 className=""> About Our Team</h1>
                     <p>
                         We are a team of passionate people whose goal is to improve everyone's life through disruptive products. We build great products to solve your business problems.We understand that sometimes it might hard to constribute to the society in various act. That's why we are here.  \n We make it easy for everyone to plant trees and save the earth for future generation. We want to make the world full of free and embalance with nature.
+                         lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
 
                     <button className="btn btn-success">
